@@ -1,4 +1,4 @@
-#Topic: Cancer, Brain tumor imaging features
+# Topic: Cancer, Brain tumor imaging features
 
 Summary: This dataset comprises features extracted from multiple magnetic resonance imaging (MRI) contrasts for a group of patients suffering from a specific type of brain tumor called Glioblastoma. The objective of this study is to identify imaging biomarkers that could inform on different aspects of the disease such as specific mutation status of the tumor (otherwise only accessible using an invasive biopsy) or overall survival of these patients. The features have already been extracted from the images and refer to ‘radiomic features’ characterising the image in the form of 145 characteristics of how the tumor appears on the image of a particular contrast. Such characteristics refer for example to the intensity distribution of the tumor image (mean/max/min, shape of the distribution etc) and are provided for a variety of imaging contrast such as T1, T2, FLAIR, and diffusion imaging.
 
