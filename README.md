@@ -1,2 +1,9 @@
-# Imaging_Features
-A University Project comparing various ML Models to predict Life expectency using Imaging Features.
+#Topic: Cancer, Brain tumor imaging features
+
+Summary: This dataset comprises features extracted from multiple magnetic resonance imaging (MRI) contrasts for a group of patients suffering from a specific type of brain tumor called Glioblastoma. The objective of this study is to identify imaging biomarkers that could inform on different aspects of the disease such as specific mutation status of the tumor (otherwise only accessible using an invasive biopsy) or overall survival of these patients. The features have already been extracted from the images and refer to ‘radiomic features’ characterising the image in the form of 145 characteristics of how the tumor appears on the image of a particular contrast. Such characteristics refer for example to the intensity distribution of the tumor image (mean/max/min, shape of the distribution etc) and are provided for a variety of imaging contrast such as T1, T2, FLAIR, and diffusion imaging.
+
+Data details: 611 samples, 4752 features
+
+References:
+
+Bakas, S., Sako, C., Akbari, H., Bilello, M., Sotiras, A., Shukla, G., Rudie, J. D., Flores Santamaria, N., Fathi Kazerooni, A., Pati, S., Rathore, S., Mamourian, E., Ha, S. M., Parker, W., Doshi, J., Baid, U., Bergman, M., Binder, Z. A., Verma, R., … Davatzikos, C. (2021). Multi-parametric magnetic resonance imaging (mpMRI) scans for de novo Glioblastoma (GBM) patients from the University of Pennsylvania Health System (UPENN-GBM) (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.709X-DN49 Bakas, S., Sako, C., Akbari, H., Bilello, M., Sotiras, A., Shukla, G., Rudie, J. D., Flores Santamaria, N., Fathi Kazerooni, A., Pati, S., Rathore, S., Mamourian, E., Ha, S. M., Parker, W., Doshi, J., Baid, U., Bergman, M., Binder, Z. A., Verma, R., Lustig, R., Desai, A. S., Bagley, S. J., Mourelatos, Z., Morrissette, J., Watt, C. D., Brem, S., Wolf, R. L., Melhem, E. R., Nasrallah, M. P., Mohan, S., O’Rourke, D. M., Davatzikos, C. (2022). The University of Pennsylvania glioblastoma (UPenn-GBM) cohort: advanced MRI, clinical, genomics, & radiomics. In Scientific Data (Vol. 9, Issue 1). https://doi.org/10.1038/s41597-022-01560-7 https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70225642
